@@ -35,6 +35,7 @@ class Scripted(object):
     ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
     BANNED_USER_TEXT = "<b>¥ou Are Banned 🚫</b>"
     TRYING_TO_UPLOAD = "<b>Trying to upload....</b>"
+    RENAMED_SUCCESS = "<b>Renamed Successfully...</b>"
     CURRENT_THUMBNAIL = "<b>Your Current Thumbnail 🎭</b>"
     THUMBNAIL_SAVED = "<b>Your Thumbnail Saved ✅</b>"
     THUMBNAIL_DELETED = "<b>Your Thumbnail Deleted ✅</b>"
