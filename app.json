@@ -35,12 +35,12 @@
     },
     "MIRROR_GROUP": {
       "description": "Your Mirror Group USERNAME (without @)..",
-      "value": ""
+      "value": "",
       "required": false
     },
     "UPDATE_GROUP": {
       "description": "Your Support Group USERNAME (without @)..",
-      "value": ""
+      "value": "",
       "required": false
     },
      "UPDATE_CHANNEL": {
