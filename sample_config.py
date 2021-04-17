@@ -20,6 +20,8 @@ class Config(object):
 
     DB_URI = os.environ.get("DATABASE_URL", "")
 
+    MIRROR_GROUP = os.environ.get("MIRROR_GROUP", "")
+
     UPDATE_GROUP = os.environ.get("UPDATE_GROUP", "")
     
     UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
