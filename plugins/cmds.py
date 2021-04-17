@@ -32,7 +32,8 @@ async def start(bot, update):
           text=Scripted.START_TEXT,
           parse_mode="html",
           disable_web_page_preview=True,
-          reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='🚀Updates Channel🚀', url=f'https://t.me/{Config.UPDATE_CHANNEL}'),
+          reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='Mirror Group', url=f'https://t.me/{Config.MIRROR_GROUP}') ],
+                                               [ InlineKeyboardButton(text='🚀Updates Channel🚀', url=f'https://t.me/{Config.UPDATE_CHANNEL}'),
                                                  InlineKeyboardButton(text='🚨Support Group🚨', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
                                                [ InlineKeyboardButton(text='Close', callback_data='DM') ] ] ) )
 
