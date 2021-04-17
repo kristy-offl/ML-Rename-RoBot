@@ -73,7 +73,7 @@ async def rename_video(bot, update):
             file_name=download_location,
             progress=progress_for_pyrogram,
             progress_args=(
-                Scripted.RENAMING_VIDEO,
+                Scripted.DOWNLOAD_START,
                 C,
                 c_time
             )
@@ -81,7 +81,7 @@ async def rename_video(bot, update):
         if the_real_download_location is not None:
             try:
                 await bot.edit_message_text(
-                text=Scripted.RENAMED_SUCCESS,
+                text=Scripted.TRYING_TO_UPLOAD,
                 chat_id=update.chat.id,
                 message_id=c.message_id
                 )
