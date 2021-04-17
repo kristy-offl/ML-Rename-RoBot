@@ -33,9 +33,15 @@
       "value": "",
       "required": false
     },
+    "MIRROR_GROUP": {
+      "description": "Your Mirror Group USERNAME (without @)..",
+      "value": ""
+      "required": false
+    },
     "UPDATE_GROUP": {
       "description": "Your Support Group USERNAME (without @)..",
       "value": ""
+      "required": false
     },
      "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Update channel USERNAME (without @)..",
