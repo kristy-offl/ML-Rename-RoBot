@@ -48,6 +48,5 @@ class Scripted(object):
     REPLY_TO_FILE = "<b>Reply to that file with /rename new name.ext</b>"
     CONTACT_MY_DEVELOPER = "<b>Something Wrong Contact My Developer 🤯</b>"
     REPLY_TO_MEDIA = "<b>Reply to that Media with /rename_video New Name</b>"
-    START_TEXT = "<b>Hey..<b>{}</b>\n 
-I Aᴍ A Sɪᴍᴘʟᴇ Rᴇɴᴀᴍᴇ Bᴏᴛ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇs Wɪᴛʜ Cᴜᴛsᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Uᴘʟᴏᴀᴅ As Vɪᴅᴇᴏ Oʀ Fɪʟᴇ. 💯</b>"
+    START_TEXT = "<b>Hey..<b>{}</b>\n  I Aᴍ A Sɪᴍᴘʟᴇ Rᴇɴᴀᴍᴇ Bᴏᴛ I Cᴀɴ Rᴇɴᴀᴍᴇ Fɪʟᴇs Wɪᴛʜ Cᴜᴛsᴏᴍ Tʜᴜᴍʙɴᴀɪʟ Aɴᴅ Uᴘʟᴏᴀᴅ As Vɪᴅᴇᴏ Oʀ Fɪʟᴇ. 💯</b>"
     UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/Itz_Me_Malayaali'>[ Click Here ]</a></b>"
